@@ -1,0 +1,2 @@
+from .fast_gradient_sign_untargeted import FastGradientSignUntargeted
+#from .fast_gradient_sign_untargeted_flood import FastGradientSignUntargetedFlood
