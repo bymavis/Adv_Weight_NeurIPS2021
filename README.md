@@ -4,6 +4,7 @@ The officially code (pytorch version) for paper 'Clustering Effect of (Linearize
 ### Usage
 
 ################# Observations
+
 1. compute correlation matrix for ResNet18 
 ```
 #Robust Model
@@ -21,6 +22,7 @@ python evaluate_feature_distance.py --adv std
 ```
 
 ################# Explorations
+
 reconstruct new CIFAR-20 data set, take five superclasses and four subclasses as an example 
 ```
 python read_cifar20_train.py
