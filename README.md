@@ -1,5 +1,5 @@
 ### Adv_Weight_NeurIPS2021
-The officially code (pytorch version) for paper 'Clustering Effect of (Linearized) Adversarial Robust Models'. (accepted by NeurIPS 2021, Spotlight)
+The official code (PyTorch version) for paper 'Clustering Effect of (Linearized) Adversarial Robust Models'. (accepted by NeurIPS 2021, Spotlight)
 
 ### Usage
 
